@@ -1,7 +1,5 @@
 ### Hi, I'm Justin Zau 👋
 
-SWE @ KPMG
-
 I'm a Software Engineer at KPMG building AI-powered systems, where I build and deploy AI agents that automate complex tax workflows. My work spans agentic engineering with LangGraph and MCP, backend services with Python and FastAPI, and integrations that connect AI systems to enterprise platforms.
 
 Software Engineer at KPMG Ignition, 
