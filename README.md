@@ -7,7 +7,6 @@ Software Engineer at KPMG Ignition,
 - 🎓 BS Computer Science, Machine Learning Concentration — Purdue University
 - 🌱 Background spans ML (regression/feature engineering pipelines), backend/database design, and full-stack development
 - 📫 Reach me at justingzau@gmail.com or [LinkedIn](https://linkedin.com/in/justinzau)
-- 📄 [My Resume](./Justin_Zau_Resume.pdf) ![Last updated](https://img.shields.io/github/last-commit/justinzau/justinzau?path=Justin_Zau_Resume.pdf&label=last%20updated)
 
 #### Tech I work with
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
