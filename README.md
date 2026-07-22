@@ -34,3 +34,6 @@ Software Engineer at KPMG Ignition,
 ![Claude Code](https://img.shields.io/badge/Claude_Code-CC785C?style=for-the-badge&logo=claude&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+
+#### GitHub Stats
+![Justin's GitHub stats](https://github-readme-stats.vercel.app/api?username=justinzau&show_icons=true&theme=default&hide_border=true)
